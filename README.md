@@ -1,4 +1,4 @@
-# Dappazon
+# SupplyDapp
 
 ## Technology Stack & Tools
 
@@ -15,7 +15,7 @@
 ### 1. Clone/Download the Repository
 
 ### 2. Install Dependencies:
-`$ npm install`
+`$ npm install or npm i`
 
 ### 3. Run tests
 `$ npx hardhat test`
