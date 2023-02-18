@@ -29,3 +29,6 @@ In another terminal execute:
 
 ### 6. Start react(frontend)
 `$ npm run start`
+
+## Metamask Network
+You have to use the hardhat network in your metamask wallet.
