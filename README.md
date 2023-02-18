@@ -3,29 +3,29 @@
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
-- [React.js](https://reactjs.org/) (Frontend Framework)
+- Javascript (Testing smart contracts and React)
+- Hardhat (Environment for development)
+- Ethers.js (Interaction with blockchain)
+- React.js (Frontend Framework)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+- Install NodeJS
 
 ## Setting Up
-### 1. Clone/Download the Repository
+### 1. Clone the Repo
 
-### 2. Install Dependencies:
+### 2. Install All the Dependencies:
 `$ npm install or npm i`
 
-### 3. Run tests
+### 3. Test the contract
 `$ npx hardhat test`
 
-### 4. Start Hardhat node
+### 4. Start the node
 `$ npx hardhat node`
 
-### 5. Run deployment script
-In a separate terminal execute:
+### 5. Deploy the smart contract
+In another terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
-### 6. Start frontend
+### 6. Start react(frontend)
 `$ npm run start`
